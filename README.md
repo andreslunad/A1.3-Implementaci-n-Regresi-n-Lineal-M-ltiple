@@ -17,8 +17,8 @@ La base de datos cuenta con la siguiente información:
 
 Este proyecto incluye los siguientes documentos:
 
-• [Reporte en formato ipynb](A1.3608994(1).ipynb)
+• [Reporte en formato ipynb](A1.3608994.ipynb)
 
 • [Reporte en formato html](A1.3608994.html)
 
-• [Base de de datos](A1.3FelicidadyGDP.csv)
+• [Base de de datos](A1.3NASA.csv)
